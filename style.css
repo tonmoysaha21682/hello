@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+body{
+    margin: 0%; padding: 0%; box-sizing: border-box;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+.carousel-item> img{
+    width: 100%;
+    height: 80vh;
+}
+#name{
+    font-family: 'Dancing Script', cursive;
+}
+.card-body img{
+    min-width: 50%;
+    height: 160px;
+}
+.tonu img{
+    height: 75%;
+
+    
+}
+.tonu> img:hover{
+    
+    border-radius: 15%;
+    box-shadow: rgb(252, 235, 85) 5%;
+    
+}
+.border-bottom-success{
+    border-bottom: 5px solid rgb(241, 194, 40);
+}
+:root{
+    --riya:#FFE333
+}
